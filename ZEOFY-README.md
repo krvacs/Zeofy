@@ -39,3 +39,5 @@ The core package relies on explicit numerical math, scientific optimization, and
    pip install customtkinter pillow numpy pandas openpyxl scikit-learn xgboost torch matplotlib qrcode
 3. Launching the App
    python app.py
+
+Google Drive Link for the Zeofy Application Installer: https://tinyurl.com/ZeofyDrive
